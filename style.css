@@ -317,6 +317,7 @@ h4 {
   /* top */
   .sitename {
     text-align: center;
+    font-family: "Barlow", sans-serif;
   }
 
   nav ul {
@@ -326,14 +327,17 @@ h4 {
 
   nav li {
     font-size: 20px;
+    font-family: "Barlow", sans-serif;
   }
 
   h2 {
     font-size: 55px;
+    font-family: "Barlow", sans-serif;
   }
 
   h3 {
     font-size: 35px;
+    font-family: "Barlow", sans-serif;
   }
 
   .top-p {
@@ -343,6 +347,7 @@ h4 {
   /* works */
   .worksh3 {
     font-size: 30px;
+    font-family: "Barlow", sans-serif;
   }
 
   p.contents-comment {
