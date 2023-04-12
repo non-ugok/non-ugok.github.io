@@ -371,6 +371,22 @@ h4 {
     max-width: 300px;
   }
 
+  p.title1 {
+    font-size: 15px;
+    line-height: 1.5em;
+    margin: 0px 0px 30px 0px;
+    padding: 0;
+  }
+
+  p.title2 {
+    font-size: 10px;
+    text-align: left;
+    line-height: 2em;
+    padding: 0;
+    margin-bottom: 60px;
+    margin: 15px;
+  }
+
   /* about */
   img.profile-img {
     margin: 0;
