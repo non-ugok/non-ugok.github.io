@@ -344,6 +344,7 @@ h4 {
 
   .top-p {
     font-size: 13px;
+    font-family: "Barlow", sans-serif;
   }
 
   /* works */
@@ -357,6 +358,7 @@ h4 {
   }
 
   figure {
+    font-family: "Zen Kaku Gothic New", sans-serif;
     display: inline-block;
     width: 100vw;
     margin: auto;
@@ -408,6 +410,7 @@ h4 {
   h4 {
     font-size: 25px;
     text-align: center;
+    font-family: "Zen Kaku Gothic New", sans-serif;
   }
 
   .about-comment2 {
